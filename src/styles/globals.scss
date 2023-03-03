@@ -1,17 +1,20 @@
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
 
-@import './variable.scss';
+// * {
+//   box-sizing: border-box;
+//   padding: 0;
+//   margin: 0;
+// }
+// @import './variable.scss';
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-  font-family: $primaryFont;
-  font-size: 62.5%;
-  line-height: 1.3;
-  background-color: $liteyellow;
-}
+// html,
+// body {
+//   max-width: 100vw;
+//   overflow-x: hidden;
+//   font-family: $primaryFont;
+//   font-size: 62.5%;
+//   line-height: 1.3;
+//   background-color: $liteyellow;
+// }
+// body{
+//   font-size: 1.6rem;
+// }

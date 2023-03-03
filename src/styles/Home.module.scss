@@ -7,19 +7,19 @@
   align-items: center;
   padding: 6rem;
   width: 100vw;
-  height: 100vh;
-  h1{
-    font-size: 5rem;
-    font-weight: 900;
-    color: $primaryColor;
-  }
-  .tagline{
-    font-family: $handFont;
-    font-size: 2.5rem;
-    line-height: 1.3;
-    letter-spacing: 0.06em;
-    padding: 0;
-    margin: 10px 0;
-    color: $secondaryColor;
-  }
+  height: auto;
+  // h1{
+  //   font-size: 5rem;
+  //   font-weight: 900;
+  //   color: $primaryColor;
+  // }
+  // .tagline{
+  //   font-family: $handFont;
+  //   font-size: 2.5rem;
+  //   line-height: 1.3;
+  //   letter-spacing: 0.06em;
+  //   padding: 0;
+  //   margin: 10px 0;
+  //   color: $secondaryColor;
+  // }
 }

@@ -12,8 +12,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className={styles.main}>
-         <h1>Ratnesh Sharma</h1>
-         <p className={styles.tagline}>Resume made by using NextJs, TypeScript and SCSS</p>
+        <h1 className='text-3xl font-bold underline'>Ratnesh Sharma</h1>
+        <p className={styles.tagline}>Resume made by using NextJs, TypeScript and SCSS</p>
       </section>
     </>
   )
